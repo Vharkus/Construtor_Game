@@ -3,45 +3,24 @@ Acerte o número
 ## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
-🔹 Descrição do projeto 
+🔹 [Descrição do projeto] (https://github.com/Vharkus/Construtor_Game#descri%C3%A7%C3%A3o-do-projeto)
 
-https://github.com/Vharkus/Construtor_Game#descri%C3%A7%C3%A3o-do-projeto
+🔹 [Funcionalidades] (https://github.com/Vharkus/Construtor_Game#funcionalidades-%EF%B8%8F)
 
-🔹 Funcionalidades
+🔹 [Distribuição] (https://github.com/Vharkus/Construtor_Game#distribui%C3%A7%C3%A3o)
 
-https://github.com/Vharkus/Construtor_Game#funcionalidades-%EF%B8%8F
+🔹 [Pré-requisitos] (https://github.com/Vharkus/Construtor_Game#pr%C3%A9-requisitos-%EF%B8%8F)
 
-🔹 Distribuição
+🔹 [Como rodar a aplicação] (https://github.com/Vharkus/Construtor_Game#como-rodar-a-aplica%C3%A7%C3%A3o)
 
-https://github.com/Vharkus/Construtor_Game#distribui%C3%A7%C3%A3o
+🔹 [Linguagens, dependências e libs utilizadas] (https://github.com/Vharkus/Construtor_Game#linguagens-dependencias-e-libs-utilizadas-)
 
-🔹 Pré-requisitos
+🔹 [Desenvolvedores/Contribuintes] (https://github.com/Vharkus/Construtor_Game#desenvolvedorescontribuintes)
 
-https://github.com/Vharkus/Construtor_Game#pr%C3%A9-requisitos-%EF%B8%8F
-
-🔹 Como rodar a aplicação
-
-https://github.com/Vharkus/Construtor_Game#como-rodar-a-aplica%C3%A7%C3%A3o
-
-🔹 Linguagens, dependências e libs utilizadas
-
-https://github.com/Vharkus/Construtor_Game#linguagens-dependencias-e-libs-utilizadas-
-
-🔹 Desenvolvedores/Contribuintes
-
-https://github.com/Vharkus/Construtor_Game#desenvolvedorescontribuintes
-
-🔹 Informações Extras
-
-https://github.com/Vharkus/Construtor_Game#licen%C3%A7a
-
-
-...
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
+🔹 [Informações Extras] (https://github.com/Vharkus/Construtor_Game#licen%C3%A7a)
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Um código feito para retratar um mini game onde o objetivo é encontrar o número secreto entre 1 e 100.
 
 ## Funcionalidades ⚙️
 ✔️ Entretenimento.
