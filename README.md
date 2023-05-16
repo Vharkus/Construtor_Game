@@ -3,21 +3,21 @@ Acerte o número
 ## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
-🔹 [Descrição do projeto] (https://github.com/Vharkus/Construtor_Game#descri%C3%A7%C3%A3o-do-projeto)
+🔹 [Descrição do projeto](https://github.com/Vharkus/Construtor_Game#descri%C3%A7%C3%A3o-do-projeto)
 
-🔹 [Funcionalidades] (https://github.com/Vharkus/Construtor_Game#funcionalidades-%EF%B8%8F)
+🔹 [Funcionalidades](https://github.com/Vharkus/Construtor_Game#funcionalidades-%EF%B8%8F)
 
-🔹 [Distribuição] (https://github.com/Vharkus/Construtor_Game#distribui%C3%A7%C3%A3o)
+🔹 [Distribuição](https://github.com/Vharkus/Construtor_Game#distribui%C3%A7%C3%A3o)
 
-🔹 [Pré-requisitos] (https://github.com/Vharkus/Construtor_Game#pr%C3%A9-requisitos-%EF%B8%8F)
+🔹 [Pré-requisitos](https://github.com/Vharkus/Construtor_Game#pr%C3%A9-requisitos-%EF%B8%8F)
 
-🔹 [Como rodar a aplicação] (https://github.com/Vharkus/Construtor_Game#como-rodar-a-aplica%C3%A7%C3%A3o)
+🔹 [Como rodar a aplicação](https://github.com/Vharkus/Construtor_Game#como-rodar-a-aplica%C3%A7%C3%A3o)
 
-🔹 [Linguagens, dependências e libs utilizadas] (https://github.com/Vharkus/Construtor_Game#linguagens-dependencias-e-libs-utilizadas-)
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/Vharkus/Construtor_Game#linguagens-dependencias-e-libs-utilizadas-)
 
-🔹 [Desenvolvedores/Contribuintes] (https://github.com/Vharkus/Construtor_Game#desenvolvedorescontribuintes)
+🔹 [Desenvolvedores/Contribuintes](https://github.com/Vharkus/Construtor_Game#desenvolvedorescontribuintes)
 
-🔹 [Informações Extras] (https://github.com/Vharkus/Construtor_Game#licen%C3%A7a)
+🔹 [Informações Extras](https://github.com/Vharkus/Construtor_Game#licen%C3%A7a)
 
 ## Descrição do projeto
 Um código feito para retratar um mini game onde o objetivo é encontrar o número secreto entre 1 e 100.
